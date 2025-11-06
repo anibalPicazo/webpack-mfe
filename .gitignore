@@ -1,0 +1,8 @@
+# Ignore dependency folders and log files
+node_modules/
+dist/
+build/
+package-lock.json
+*.log
+.DS_Store  # macOS system file
+Thumbs.db  # Windows system fil
